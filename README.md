@@ -1,2 +1,2 @@
 # Multivariate_Data_Analysis
-This project includes all sorts of functions that we used in the Multivariate class. I am not writing this as a package because I want you to actually see and modify the code. Please do not commercialize the code. 
+This project includes all functions I wrote and some analysis/solutions to the homework questions in my Multivariate Analysis class. I hope you can actually see, learn, and maybe edit the code. I hope this could be very helpful to some of you who are struggling. 
